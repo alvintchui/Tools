@@ -1,5 +1,6 @@
 imp system/admin@orcl FILE=C:\Users\HUIAL2\Desktop\ImportDB\b2b.dmp log=C:\Users\HUIAL2\Desktop\ImportDB\import.log full=y
 
+--Test Test
 --select current logged in user
 select user from dual;
 
